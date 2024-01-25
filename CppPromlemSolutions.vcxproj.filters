@@ -19,4 +19,21 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BinaryGap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CyclicRotation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FrogJmp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MaxCounters.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Ladder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
