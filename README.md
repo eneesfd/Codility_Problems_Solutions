@@ -6,51 +6,51 @@
 
 **Arrays**
 - [x] CyclicRotation
-- [] OddOccurrencesInArray
+- [ ] OddOccurrencesInArray
 
 **Time Complexity**
-- [] TapeEquilibruim
+- [ ] TapeEquilibruim
 - [x] FrogJmp
-- [] PermMissingElem
+- [ ] PermMissingElem
 
 **Counting Elements**
-- [] PermCheck
-- [] MissingInteger
-- [] FrogRiverOne
+- [ ] PermCheck
+- [ ] MissingInteger
+- [ ] FrogRiverOne
 - [x] MaxCounters
 
 **Prefix Sums**
-- [] Passing Cars
-- [] CountDiv
+- [ ] Passing Cars
+- [ ] CountDiv
 - [ ] GenomicRangeQuery
 - [ ] MinAvgTwoSlice
 
 **Sorting**
-- [] Distinct
-- [] MaxProductOfThree
-- [] Triangle
+- [ ] Distinct
+- [ ] MaxProductOfThree
+- [ ] Triangle
 - [ ] NumberOfDiscIntersections *(on going...)*
 
 **Stacks and Queues**
-- [] Fish
-- [] Brackets
-- [] StoneWall
-- [] Nesting
+- [ ] Fish
+- [ ] Brackets
+- [ ] StoneWall
+- [ ] Nesting
 
 **Leader**
-- [] EquiLeader
+- [ ] EquiLeader
 - [ ] Donimator
 
 **Maximum Slice Problem**
 - [ ] MaxProfit
-- [] MaxDoubleSliceSum
+- [ ] MaxDoubleSliceSum
 - [ ] MaxSliceSum
 
 **Prime and Composite Numbers**
 - [ ] MinPerimeterRectangle
 - [ ] CountFactors
 - [ ] Peaks
-- [] Flags
+- [ ] Flags
 
 **Sieve of Eratosthenes**
 - [ ] CountSemiprimes
@@ -65,32 +65,32 @@
 - [x] Ladder
 
 **Binary Search Algorithm**
-- [] MinMaxDivision
+- [ ] MinMaxDivision
 - [ ] NailingPlanks
 
 **Caterpillar Method**
-- [] AbsDistinct
-- [] CountDistinctSlices
-- [] CountTriangles
-- [] MinAbsSumOfTwo
+- [ ] AbsDistinct
+- [ ] CountDistinctSlices
+- [ ] CountTriangles
+- [ ] MinAbsSumOfTwo
 
 **Greedy Algorithms**
-- [] MaxNonoverlappingSegments
-- [] TieRopes
+- [ ] MaxNonoverlappingSegments
+- [ ] TieRopes
 
 **Dynamic Programming**
-- [] NumberSolitaire
+- [ ] NumberSolitaire
 - [ ] MinAbsSum
 
 **Indeed Prime 2016 Challenge**
-- [] DwarfsRafting
+- [ ] DwarfsRafting
 - [ ] RectangleBuilderGreaterArea
 - [ ] HilbertMaze
 - [ ] TreeProduct
 
 **Future Training**
 - [ ] SqlSum
-- [] TreeHeight
+- [ ] TreeHeight
 - [ ] StrSymmetryPoint
 - [ ] ArrayInversionCount
 - [ ] PolygonConcavityIndex
