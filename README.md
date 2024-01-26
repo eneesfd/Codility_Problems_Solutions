@@ -1,6 +1,9 @@
 # Codility
 *Codility Online Lessons*
 
+**Demo Test**
+- [x] CodilityDemoTest 
+
 **Iterations**
 - [x] BinaryGap 
 
