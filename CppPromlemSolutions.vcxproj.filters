@@ -35,5 +35,11 @@
     <ClInclude Include="Ladder.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Codility_Demo_Test.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="JobsIntervewQuestions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
