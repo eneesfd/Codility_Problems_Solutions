@@ -60,7 +60,7 @@
 - [ ] CountNonDivisible
 
 **Eucliedean Algorithm**
-- [] ChocolatesByNumbers
+- [ ] ChocolatesByNumbers
 - [ ] CommonPrimeDivisors
 
 **Fibonnaci Numbers**
@@ -100,3 +100,5 @@
 
 **Others**
 - [ ] Clocks (In progress)
+- [x] Jobs Interview Question
+- [x] Roman To Int
