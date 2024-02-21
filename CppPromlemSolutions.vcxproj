@@ -131,13 +131,14 @@
     <ClCompile Include="CppPromlemSolutions.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="JobsIntervewQuestions.h" />
     <ClInclude Include="BinaryGap.h" />
     <ClInclude Include="Codility_Demo_Test.h" />
     <ClInclude Include="CyclicRotation.h" />
     <ClInclude Include="FrogJmp.h" />
+    <ClInclude Include="JobsInterviewQuestion.h" />
     <ClInclude Include="Ladder.h" />
     <ClInclude Include="MaxCounters.h" />
+    <ClInclude Include="RomanToInt.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -38,7 +38,10 @@
     <ClInclude Include="Codility_Demo_Test.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="JobsIntervewQuestions.h">
+    <ClInclude Include="JobsInterviewQuestion.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RomanToInt.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
