@@ -68,7 +68,7 @@
 - [x] Ladder
 
 **Binary Search Algorithm**
-- [ ] MinMaxDivision
+- [x] MinMaxDivision
 - [ ] NailingPlanks
 
 **Caterpillar Method**
