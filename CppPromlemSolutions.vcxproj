@@ -138,6 +138,7 @@
     <ClInclude Include="JobsInterviewQuestion.h" />
     <ClInclude Include="Ladder.h" />
     <ClInclude Include="MaxCounters.h" />
+    <ClInclude Include="MinMaxDivision.h" />
     <ClInclude Include="RomanToInt.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
