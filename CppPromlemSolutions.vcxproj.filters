@@ -47,5 +47,14 @@
     <ClInclude Include="MinMaxDivision.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="OddOccurrencesInArray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PermMissingElem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TapeEquilibrium.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

@@ -8,8 +8,9 @@
 #include "MaxCounters.h"
 #include "JobsInterviewQuestion.h"
 #include "RomanToInt.h"
+#include "PermMissingElem.h"
+#include "TapeEquilibrium.h"
 
 int main()
 {
-
 }
