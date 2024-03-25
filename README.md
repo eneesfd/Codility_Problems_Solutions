@@ -9,12 +9,12 @@
 
 **Arrays**
 - [x] CyclicRotation
-- [ ] OddOccurrencesInArray
+- [x] OddOccurrencesInArray
 
 **Time Complexity**
-- [ ] TapeEquilibruim
+- [x] TapeEquilibruim
 - [x] FrogJmp
-- [ ] PermMissingElem
+- [x] PermMissingElem
 
 **Counting Elements**
 - [ ] PermCheck
